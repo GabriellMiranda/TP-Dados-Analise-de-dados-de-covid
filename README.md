@@ -7,5 +7,5 @@ Integrantes:
 3 - Pedro Augusto
 4 - Victória Caroline
 
-Linda do site da base de dados:
+Link do site da base de dados:
 https://covid.saude.gov.br/
