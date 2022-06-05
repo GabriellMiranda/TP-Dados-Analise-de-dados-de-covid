@@ -5,7 +5,7 @@ Integrantes:
 1 - Fábio Trindade
 2 - Gabriel Miranda
 3 - Pedro Augusto
-4 - Victória Caroline
+4 - Victória Rodrigues
 
 Link do site da base de dados:
 https://covid.saude.gov.br/
